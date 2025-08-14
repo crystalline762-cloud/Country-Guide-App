@@ -7,4 +7,4 @@ Fitur fitur yang terdapat pada project sederhana ini diantaranya:
 - Menampilkan berbagai informasi seperti bagian negara, mata uang, jumlah penduduk, dan sebagainya.
 
 ## Notes
-Belum ditambahkan fitur enter key features, jadi tidak bisa di cari dengan menggunakan tombol enter pada PC/laptop kalian.
+Belum ditambahkan fitur enter key features, jadi tidak bisa di cari dengan menggunakan tombol enter pada PC/laptop kalian, dan belum responsive page juga.
